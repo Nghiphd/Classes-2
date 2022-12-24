@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bike
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bike\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ speed
+comment1.target=Bike(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ ranOverNail()
+comment3.params=
+comment3.target=void\ fixTire()
+comment4.params=time\ direction
+comment4.target=void\ travel(double,\ int)
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Vehicle\ base\ class\ for\ APCSA\r\n\r\n\ @author\ Roger\ Jaffe\r\n\ @version\ 1.0.0\r\n
+comment1.params=name\ speed
+comment1.target=Vehicle(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ form\ objects\ of\ class\ Vehicle\r\n
+comment2.params=
+comment2.target=double\ getXPos()
+comment2.text=\r\n\ Getter\ functions\ for\ the\ instance\ variables\r\n
+comment3.params=
+comment3.target=double\ getYPos()
+comment4.params=
+comment4.target=double\ getSpeed()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=speed
+comment6.target=void\ setSpeed(double)
+comment6.text=\r\n\ Setter\ function\ for\ speed\ which\ may\ change\ after\ the\ \r\n\ class\ has\ been\ instantiated\r\n
+comment7.params=time\ direction
+comment7.target=void\ travel(double,\ int)
+comment7.text=\r\n\ Adjust\ the\ xPos\ and\ yPos\ bassed\ on\ speed\ and\ passed-in\r\n\ time\ in\ secs\ and\ direction\ in\ degrees\r\n
+comment8.params=
+comment8.target=double\ distanceFromHome()
+numComments=9
